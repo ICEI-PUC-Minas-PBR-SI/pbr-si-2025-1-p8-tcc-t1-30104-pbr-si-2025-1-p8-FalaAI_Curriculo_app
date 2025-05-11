@@ -1,5 +1,5 @@
 # Informação sobre o Trabalho de Conclusão de Curso (TCC)
-`TÍTULO DO TCC`  
+`Desenvolvimento de Aplicativo de Geração de Currículos por voz: FalaAI`  
 
 Trabalho de Conclusão de Curso (TCC)
 
