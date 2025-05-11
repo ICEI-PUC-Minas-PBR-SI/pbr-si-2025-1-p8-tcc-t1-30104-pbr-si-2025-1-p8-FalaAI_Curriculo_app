@@ -3,9 +3,9 @@
 
 Trabalho de Conclusão de Curso (TCC)
 
-`CURSO`: 
+`CURSO`: Sistemas de informação
 
-`SEMESTRE:`
+`SEMESTRE:` 1º / 2025
 
 `Objetivos de Desenvolvimento Sustentável (ODS) da ONU:` 
 > Incluir o(s) número(s) e a(s) descrição(ões) do(s) ODS da ONU que o TCC atende. 
@@ -13,8 +13,7 @@ Trabalho de Conclusão de Curso (TCC)
 ## Participantes
 
 Os membros da equipe são: 
-- Fulano da Silva
-- Ciclano Albuquerque
+- Abner Amorim
 
 > Incluir a lista dos membros da equipe com seus nomes completos.
 
