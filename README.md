@@ -16,7 +16,7 @@ Os membros da equipe são:
 - Abner Amorim Olivera
 
 
-> Incluir a lista dos membros da equipe com seus nomes completos.
+
 
 # Estrutura do Projeto
 
