@@ -8,13 +8,13 @@ Trabalho de Conclusão de Curso (TCC)
 `SEMESTRE:`  1º / 2025
 
 `Objetivos de Desenvolvimento Sustentável (ODS) da ONU:` 
-> Incluir o(s) número(s) e a(s) descrição(ões) do(s) ODS da ONU que o TCC atende. 
+> Não se aplica. 
 
 ## Participantes
 
 Os membros da equipe são: 
-- Fulano da Silva
-- Ciclano Albuquerque
+- Abner Amorim Olivera
+
 
 > Incluir a lista dos membros da equipe com seus nomes completos.
 
