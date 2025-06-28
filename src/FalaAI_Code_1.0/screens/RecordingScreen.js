@@ -132,7 +132,7 @@ const RecordingScreen = ({ navigation }) => {
       });
 
       
-      const response = await fetch('http://192.168.100.17:8000/process-audio', {
+      const response = await fetch('http://192.168.0.1:8000/process-audio', {
         method: 'POST',
         body: formData,
         timeout: 30000,
@@ -171,7 +171,7 @@ const RecordingScreen = ({ navigation }) => {
     try {
       console.log('🧪 Testando conexão com backend...');
       
-      const response = await fetch('http://192.168.100.17:8000/health', {
+      const response = await fetch('http://192.168.0.1:8000/health', {
         method: 'GET',
         timeout: 5000,
       });
