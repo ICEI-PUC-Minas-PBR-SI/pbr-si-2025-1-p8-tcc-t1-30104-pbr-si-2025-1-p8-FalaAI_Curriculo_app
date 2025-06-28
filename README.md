@@ -1,11 +1,11 @@
 # Informação sobre o Trabalho de Conclusão de Curso (TCC)
-`TÍTULO DO TCC`  
+`Aplicação de Inteligência Artificial na Construção de Currículos com Comandos de voz para Jovens`  
 
 Trabalho de Conclusão de Curso (TCC)
 
-`CURSO`: 
+`CURSO`: Sistemas de Informação
 
-`SEMESTRE:`
+`SEMESTRE:`  1º / 2025
 
 `Objetivos de Desenvolvimento Sustentável (ODS) da ONU:` 
 > Incluir o(s) número(s) e a(s) descrição(ões) do(s) ODS da ONU que o TCC atende. 
