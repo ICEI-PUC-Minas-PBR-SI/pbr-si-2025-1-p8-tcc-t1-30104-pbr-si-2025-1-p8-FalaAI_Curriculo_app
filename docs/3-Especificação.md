@@ -40,7 +40,7 @@ Fonte: elaborado pelo autor (2025).
 
 A partir da definição dos requisitos do sistema e das funcionalidades, iniciou-se a etapa de prototipação das interfaces, visando estruturar a lógica de navegação e definir a disposição dos elementos visuais.
 
-![alt text](/pbr-si-2025-1-p8-tcc-t1-30104-pbr-si-2025-1-p8-FalaAI_Curriculo_app/docs/imagem/prototipos_app.png) 
+[Imagem do protótipo](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-2025-1-p8-tcc-t1-30104-pbr-si-2025-1-p8-FalaAI_Curriculo_app/blob/main/docs/imagem/prototipos_app.png)
 
 Fonte: elaborado pelo autor (2025).
 
