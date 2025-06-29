@@ -2,84 +2,48 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-TrabalhosRelacionados.md"> Trabalhos Relacionados</a></span>
 
-> Escrever um parágrafo inicial, apresentando uma visão geral do que é abordado nesta parte do documento. Enumerar técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto.
+> Nesta seção, são detalhadas as especificações do projeto desenvolvido, a partir da análise dos trabalhos relacionados. Apresenta-se uma visão geral das decisões técnicas adotadas, abordando desde a definição dos requisitos funcionais e não funcionais até a escolha das ferramentas e tecnologias empregadas.
 
 ## Título que especifica o TCC
+> Aplicação de Inteligência Artificial na Construção de Currículos com Comandos de voz para Jovens
 
-> Escrever o texto que epecifica (explica, desenvolve) o TCC.
+## Requisitos Funcionais e Não Funcionais
 
-## Personas
-
-> Exemplo:
-> Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país,
-pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
-buscando uma agência que o ajude a encontrar universidades na Europa
-que aceitem alunos estrangeiros.
-
-
-## Histórias de Usuários
-
-Com base na análise das personas foram identificadas as seguintes histórias de usuários:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-> Apresentar aqui as histórias de usuário que são relevantes para o projeto. As Histórias de Usuário ajudam na compreensão e elicitação dos requisitos funcionais e não funcionais. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-## Requisitos
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
-
-### Requisitos Funcionais
+A partir da fundamentação teórica e das etapas de desenvolvimento, foram definidos e
+analisados os requisitos funcionais e não fundacionais que compõe a estrutura do sistema a ser desenvolvido.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O usuário deve poder gravar sua voz diretamente no app. | ALTA | 
+|RF-002| O áudio deve ser convertido para texto utilizando uma API de IA para o reconhecimento de fala  | ALTA |
+|RF-003| O texto transcrito será formatado para criação de um currículo. | ALTA |
+|RF-004| O app gerará um arquivo PDF a partir do texto processado | ALTA |
+|RF-005| O app deve armazenar os currículos gerados localmente no dispositivo. | MÉDIA|
+|RF-006| app deve permitir navegação entre as telas. | MÉDIA|
 
+Fonte: elaborado pelo autor (2025).
 
-### Requisitos não Funcionais
+---
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O app deve ser rápido, especialmente na transcrição do áudio e geração do PDF.|  ALTA| 
+|RNF-002| O app deve ser compatível com dispositivos Android e iOS, responsivo em diferentes telas. |  ALTA | 
+|RNF-003| A interface deve ser intuitiva e simples, com feedbacks visuais e sonoros. |  ALTA | 
+|RNF-004| Dados sensíveis devem ser armazenados de forma segura no dispositivo.|  ALTA | 
+|RNF-005| A arquitetura do app deve permitir fácil expansão no futuro|  MÉDIA | 
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais
->   (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais
->   (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-## Restrições
-
-O projeto está restrito pelos itens apresentados na tabela a seguir.
-
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+Fonte: elaborado pelo autor (2025).
 
 
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+## Protótipos do Sistema
+
+A partir da definição dos requisitos do sistema e das funcionalidades, iniciou-se a etapa de prototipação das interfaces, visando estruturar a lógica de navegação e definir a disposição dos elementos visuais.
+
+![alt text](/pbr-si-2025-1-p8-tcc-t1-30104-pbr-si-2025-1-p8-FalaAI_Curriculo_app/docs/imagem/prototipos_app.png) 
+
+Fonte: elaborado pelo autor (2025).
+
+
 
 [Próximo](./4-Metodologia.md)
