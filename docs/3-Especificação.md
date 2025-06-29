@@ -2,7 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-TrabalhosRelacionados.md"> Trabalhos Relacionados</a></span>
 
-> Nesta seção, são detalhadas as especificações do projeto desenvolvido, a partir da análise dos trabalhos relacionados. Apresenta-se uma visão geral das decisões técnicas adotadas, abordando desde a definição dos requisitos funcionais e não funcionais até a escolha das ferramentas e tecnologias empregadas.
+> Nesta seção, são detalhadas as especificações do projeto desenvolvido, a partir da análise dos trabalhos relacionados. Apresenta-se uma visão geral das decisões técnicas adotadas, abrangendo desde a definição dos requisitos funcionais e não funcionais até a prototipação do sistema.
 
 ## Título que especifica o TCC
 > Aplicação de Inteligência Artificial na Construção de Currículos com Comandos de voz para Jovens
