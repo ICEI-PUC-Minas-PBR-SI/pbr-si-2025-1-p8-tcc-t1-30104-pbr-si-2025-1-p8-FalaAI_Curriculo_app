@@ -21,7 +21,7 @@ analisados os requisitos funcionais e não fundacionais que compõe a estrutura 
 |RF-005| O app deve armazenar os currículos gerados localmente no dispositivo. | MÉDIA|
 |RF-006| app deve permitir navegação entre as telas. | MÉDIA|
 
-Fonte: elaborado pelo autor (2025).
+*Fonte: Elaborado pelo autor (2025)*
 
 ---
 
@@ -33,7 +33,7 @@ Fonte: elaborado pelo autor (2025).
 |RNF-004| Dados sensíveis devem ser armazenados de forma segura no dispositivo.|  ALTA | 
 |RNF-005| A arquitetura do app deve permitir fácil expansão no futuro|  MÉDIA | 
 
-Fonte: elaborado pelo autor (2025).
+*Fonte: Elaborado pelo autor (2025)*
 
 
 ## Protótipos do Sistema
@@ -42,7 +42,7 @@ A partir da definição dos requisitos do sistema e das funcionalidades, iniciou
 
 ![prototipos_app.png](imagem/prototipos_app.png)
 
-Fonte: elaborado pelo autor (2025).
+*Fonte: Elaborado pelo autor (2025)*
 
 
 

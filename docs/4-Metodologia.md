@@ -22,7 +22,8 @@ O funcionamento do aplicativo inicia-se com o acesso do usuário à interface pr
 > A seguir, é apresentado o fluxograma que representa de forma visual as etapas do processo desenvolvido no aplicativo.
 
 ![Arquitetura da projeto.jpeg](imagem/Arquitetura%20da%20projeto.jpeg)
-Fonte: elaborado pelo autor (2025).
+
+*Fonte: Elaborado pelo autor (2025)*
 
 
 [Próximo](./5-Resultado.md)
