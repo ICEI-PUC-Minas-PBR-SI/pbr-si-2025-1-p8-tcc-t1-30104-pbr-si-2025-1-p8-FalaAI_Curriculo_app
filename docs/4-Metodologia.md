@@ -6,14 +6,10 @@ A metodologia deste estudo é aplicada, com foco na criação de um software de 
 
 ## Tecnologias Utilizadas
 
-- React Native 
-    Framework para desenvolvimento do aplicativo móvel, garantindo compatibilidade com dispositivos Android e iOS.
-- Python com FastAPI 
-    Utilizado no backend para gerenciar a lógica da aplicação e integrar com os serviços de Inteligência Artificial.
-- Google Gemini 
-    Inteligência Artificial empregada para o reconhecimento de voz e transcrição automática de áudio em texto.
-- Figma
-    Ferramenta empregada para a prototipação e design das interfaces do aplicativo, facilitando a definição da experiência do usuário.
+- React Native: Framework para desenvolvimento do aplicativo móvel, garantindo compatibilidade com dispositivos Android e iOS.
+- Python com FastAPI: Utilizado no backend para gerenciar a lógica da aplicação e integrar com os serviços de Inteligência Artificial.
+- Google Gemini: Inteligência Artificial empregada para o reconhecimento de voz e transcrição automática de áudio em texto.
+- Figma: Ferramenta empregada para a prototipação e design das interfaces do aplicativo, facilitando a definição da experiência do usuário.
 
 ## Descrição dos processos 
 
