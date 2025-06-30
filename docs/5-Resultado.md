@@ -18,7 +18,8 @@ Prompt:
 A partir deste prompt, o aplicativo gerou o seguinte currículo:
 
 ![Captura de tela curriculoV2.png](imagem/Captura%20de%20tela%20curriculoV2.png)
-Fonte: elaborado pelo autor (2025).
+
+*Fonte: Elaborado pelo autor (2025)*
 
 
 ## Análise dos Resultados
