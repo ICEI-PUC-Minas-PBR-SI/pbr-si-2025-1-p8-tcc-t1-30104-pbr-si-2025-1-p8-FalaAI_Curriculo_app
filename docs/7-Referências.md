@@ -34,5 +34,5 @@ RUSSELL, S.; VARGAS, B.; VALADARES, M. Inteligência Artificial a Nosso Favor: C
 
 TEIXEIRA, J. O que é inteligência artificial. e-galáxia, 2019. Disponível em: <https://e-galaxia.com.br/produto/o-que-e-inteligencia-artificial/>.
 
-ZINJAD, S. B. et al. ResumeFlow: An LLM-facilitated Pipeline for Personalized Resume Generation and Refinement. 2024. Disponível em: <https://arxiv.org/abs/2402.06221>. Dis-ponível em: <https://arxiv.org/abs/2402.06221>.
+ZINJAD, S. B. et al. ResumeFlow: An LLM-facilitated Pipeline for Personalized Resume Generation and Refinement. 2024. Disponível em: <https://arxiv.org/abs/2402.06221>.
 
