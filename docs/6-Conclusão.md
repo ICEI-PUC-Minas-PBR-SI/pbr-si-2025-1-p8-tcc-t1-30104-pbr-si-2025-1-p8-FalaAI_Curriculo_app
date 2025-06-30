@@ -6,7 +6,7 @@ Este trabalho teve como objetivo principal o desenvolvimento e avaliação de um
 
 Embora os resultados apresentados neste estudo tenham alcançado os objetivos estabelecidos, existem oportunidades de expandir e aprimorar os estudos relacionados ao uso da Inteligência Artificia na otimização de processos de recrutamento e criação de currículos. Futuros trabalhos podem explorar a criação de agentes de IA voltados para recomendações de cursos e habilidades, assim como o desenvolvimento agentes para entrevistas simuladas.
 
-A pesquisa contribui com uma solução inovadora para a criação profissional de currículos, facilitando a inserção de jovensno mercado de trabalho.
+A pesquisa contribui com uma solução inovadora para a criação profissional de currículos, facilitando a inserção de jovens no mercado de trabalho.
 
 
 [Próximo](./7-Referências.md) 
